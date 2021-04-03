@@ -1,13 +1,11 @@
 bracket-scorer
 ==============
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/bracketclub/bracket-scorer.svg)](https://greenkeeper.io/)
+_Note: This package is now located in the [bracketclub/bracketclub](https://github.com/bracketclub/bracketclub) monorepo._
 
 Find the score of a tournament bracket.
 
 [![NPM](https://nodei.co/npm/bracket-scorer.png)](https://nodei.co/npm/bracket-scorer/)
-
-[![Build Status](https://travis-ci.org/bracketclub/bracket-scorer.png?branch=master)](https://travis-ci.org/bracketclub/bracket-scorer)
 
 ## What is this?
 
